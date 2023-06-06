@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAGZ15
+- 👋 Hi, I’m Rafael Almeida
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python and taking programing classes on colege.
 - 💞️ I’m looking to collaborate on everithing that could help me to improve my potential.
